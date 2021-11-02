@@ -1,6 +1,8 @@
 # Créer votre premier Web Scraper avec Node.Js
 Créer un projet complet pour comprendre le web scraping et aller plus loin.
 
+![screencapture-localhost-8000-2021-11-02-14_56_56](https://user-images.githubusercontent.com/15716589/139861335-c29f38fe-90cf-403d-9b80-cd636c2a9989.png)
+
 ## Où trouver le cours ?
 Vous pouvez le retrouver sur plusieurs plateformes de E-learning :
 - SkillShare : https://skl.sh/3GT2vxU

@@ -5,9 +5,8 @@ Créer un projet complet pour comprendre le web scraping et aller plus loin.
 
 ## Où trouver le cours ?
 Vous pouvez le retrouver sur plusieurs plateformes de E-learning :
-- SkillShare : https://skl.sh/3GT2vxU
-- Udemy : https://www.udemy.com/course/creer-votre-premier-web-scraper-avec-nodejs/?referralCode=9F163C50222FE54FCFA5
-- Tuto.com : *COMING SOON*
+- [Udemy](https://www.udemy.com/course/creer-votre-premier-web-scraper-avec-nodejs/?referralCode=9F163C50222FE54FCFA5)
+- [Tuto.com](https://fr.tuto.com/web-scraping/coder-web-scraper-node-js-cours,170121.html)
 
 ## Description du cours
 ✨ **Le web scraping** ✨
